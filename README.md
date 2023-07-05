@@ -1,6 +1,6 @@
 git clone https://github.com/Afgbadboyking007/Fuck.git
 
-cd Amini
+cd Afgbadboyking007
 
 ls
 
